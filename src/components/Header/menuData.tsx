@@ -13,18 +13,18 @@ const menuData: Menu[] = [
     path: "/about",
     newTab: false,
   },
-  {
-    id: 33,
-    title: "مقاله‌ها",
-    path: "/blog",
-    newTab: false,
-  },
-  {
-    id: 55,
-    title: "خدمات",
-    path: "/service",
-    newTab: false,
-  },
+  // {
+  //   id: 33,
+  //   title: "مقاله‌ها",
+  //   path: "/blog",
+  //   newTab: false,
+  // },
+  // {
+  //   id: 55,
+  //   title: "خدمات",
+  //   path: "/service",
+  //   newTab: false,
+  // },
   {
     id: 3,
     title: "ثبت درخواست",
